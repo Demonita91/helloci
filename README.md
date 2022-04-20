@@ -1,6 +1,8 @@
 helloci
 =======
 
+helloci repo epam-tam
+
 Test projects for Git training
 
 Build
